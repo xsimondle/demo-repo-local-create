@@ -2,4 +2,6 @@
 
 ## Github Foundations: Git and Github
 
-Creating a repository locally before uploading to Git
+### Basics
+- headers
+- bullet points
